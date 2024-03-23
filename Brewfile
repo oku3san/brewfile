@@ -34,4 +34,5 @@ mas "Kindle", id: 302584613
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Yoink", id: 457622435
 vscode "ms-ceintl.vscode-language-pack-ja"
