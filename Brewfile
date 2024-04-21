@@ -34,6 +34,7 @@ cask "raspberry-pi-imager"
 cask "slack"
 cask "sony-ps-remote-play"
 cask "visual-studio-code"
+cask "zoom"
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
