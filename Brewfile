@@ -10,6 +10,7 @@ brew "mas"
 brew "mise"
 brew "mysql"
 brew "peco"
+brew "rye"
 brew "tmux"
 brew "fujiwara/tap/lambroll"
 brew "ynqa/tap/jnv"
@@ -29,6 +30,8 @@ cask "iterm2"
 cask "jetbrains-toolbox"
 cask "karabiner-elements"
 cask "logi-options-plus"
+cask "microsoft-auto-update"
+cask "microsoft-excel"
 cask "popclip"
 cask "postman"
 cask "raspberry-pi-imager"
@@ -45,4 +48,6 @@ mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Yoink", id: 457622435
+vscode "ms-azuretools.vscode-docker"
 vscode "ms-ceintl.vscode-language-pack-ja"
+vscode "ms-vscode-remote.remote-containers"
