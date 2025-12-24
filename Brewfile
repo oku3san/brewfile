@@ -2,6 +2,7 @@ tap "fujiwara/tap"
 tap "homebrew/bundle"
 tap "ynqa/tap"
 brew "awscli"
+brew "duckdb"
 brew "gh"
 brew "git"
 brew "git-secrets"
@@ -22,7 +23,8 @@ cask "bartender"
 cask "bettertouchtool"
 cask "cleanshot"
 cask "deepl"
-cask "docker"
+cask "docker-desktop"
+cask "elgato-stream-deck"
 cask "figma"
 cask "google-chrome"
 cask "google-japanese-ime"
@@ -39,13 +41,17 @@ cask "sony-ps-remote-play"
 cask "visual-studio-code"
 cask "zoom"
 mas "Goodnotes", id: 1444383602
+mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Yoink", id: 457622435
+vscode "docker.docker"
 vscode "eamodio.gitlens"
+vscode "github.copilot"
+vscode "github.copilot-chat"
 vscode "ms-azuretools.vscode-docker"
 vscode "ms-ceintl.vscode-language-pack-ja"
 vscode "ms-vscode-remote.remote-containers"
